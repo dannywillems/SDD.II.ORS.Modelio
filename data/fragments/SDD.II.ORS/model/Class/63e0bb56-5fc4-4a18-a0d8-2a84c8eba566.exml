@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="VerticalLine" version="3">
+  <DEPS>
+    <ID name="VerticalLine" mc="Class" uid="63e0bb56-5fc4-4a18-a0d8-2a84c8eba566"/>
+    <EXTID name="Line" mc="Class" uid="be27bdfa-ff9a-442d-a04f-ede486281907"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="VerticalLine" mc="Class" uid="63e0bb56-5fc4-4a18-a0d8-2a84c8eba566"/>
+    <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[VerticalLine]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Parent">
+        <OBJECT>
+          <ID name="Generalization" mc="Generalization" uid="f15da95a-7cd2-498b-a928-32d41f2100df"/>
+          <PID name="VerticalLine" mc="Class" uid="63e0bb56-5fc4-4a18-a0d8-2a84c8eba566"/>
+          <ATTRIBUTES>
+            <ATT name="Discriminator"></ATT>
+            <ATT name="Name"><![CDATA[Generalization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="SuperType">
+              <ID name="Line" mc="Class" uid="be27bdfa-ff9a-442d-a04f-ede486281907"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Logger" version="3">
+  <DEPS>
+    <ID name="Logger" mc="Class" uid="8d593fd2-da13-4cd7-8c49-9832235ab9c8"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Logger" mc="Class" uid="8d593fd2-da13-4cd7-8c49-9832235ab9c8"/>
+    <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Logger]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

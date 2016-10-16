@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="SDD.II.ORS" version="3">
+  <DEPS>
+    <ID name="SDD.II.ORS" mc="PropertyContainer" uid="2ba526d1-f360-4ef4-90f2-316323dcb74f"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="SDD.II.ORS" mc="PropertyContainer" uid="2ba526d1-f360-4ef4-90f2-316323dcb74f"/>
+    <PID name="SDD.II.ORS" mc="AnalystProject" uid="886afff8-ffa8-4643-9464-c2e3ed97d4e6"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[SDD.II.ORS]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

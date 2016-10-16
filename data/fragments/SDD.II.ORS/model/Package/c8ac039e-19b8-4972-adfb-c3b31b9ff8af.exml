@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sdd.ii.ors" version="3">
+  <DEPS>
+    <ID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <COMPID name="CAddPoint" mc="Class" uid="9626cf04-1dd8-4159-8571-ca02047c82f8"/>
+    <COMPID name="CCriteria" mc="Class" uid="bd34b67f-bec0-4ba8-a4ca-1d5d5dc8b20a"/>
+    <COMPID name="CLoad" mc="Class" uid="547f5be2-e656-4da5-9d26-f272461b1c76"/>
+    <COMPID name="CMDAddPoint" mc="Class" uid="ed00715e-029f-4606-8d47-9446b6ac3ad6"/>
+    <COMPID name="CMDCriteria" mc="Class" uid="48a68a1a-71cd-45d3-8f6f-68c7ccf85bc6"/>
+    <COMPID name="CMDLoad" mc="Class" uid="33610a00-bc0e-4f98-8b74-53f8c732d2e4"/>
+    <COMPID name="CMDMax" mc="Class" uid="8463693a-d16e-4587-8b9e-a4db97a2af16"/>
+    <COMPID name="CMDMin" mc="Class" uid="32ae3230-7377-4faa-90a5-40302dde4aa1"/>
+    <COMPID name="CMDPercent" mc="Class" uid="6776c989-1d22-4839-aabe-6236518f8cf1"/>
+    <COMPID name="CMDPoints" mc="Class" uid="f72ff39a-2f0f-4cd6-830c-536c49f33b54"/>
+    <COMPID name="CMDSave" mc="Class" uid="33555a30-3154-4b97-916a-4e309fa6c598"/>
+    <COMPID name="CMDShow" mc="Class" uid="080871a6-a74e-4c42-9d3d-d014aaf6547e"/>
+    <COMPID name="CMDSize" mc="Class" uid="afcbe464-32b2-4dfd-958f-9a50d3602bfc"/>
+    <COMPID name="CMax" mc="Class" uid="4ea1fb74-e756-4453-9d05-399d084e5124"/>
+    <COMPID name="CMin" mc="Class" uid="b8fbd4a2-495b-4d2b-8085-2992a1c071a9"/>
+    <COMPID name="CPercent" mc="Class" uid="949d6559-852e-4f35-ac45-01c830fdb8cb"/>
+    <COMPID name="CPoints" mc="Class" uid="0ce044b8-3566-451b-b8da-ec3f1f67c243"/>
+    <COMPID name="CSave" mc="Class" uid="0a2ad06f-5134-477b-bcbc-b4e1166affd7"/>
+    <COMPID name="CShow" mc="Class" uid="7671a9ca-11f1-4758-8e87-118756f923f7"/>
+    <COMPID name="CSize" mc="Class" uid="60fe6d67-bda5-48d7-9666-28c0233b65f5"/>
+    <COMPID name="Controller" mc="Interface" uid="936bf52f-2968-45db-800d-37d12957638a"/>
+    <COMPID name="HorizontalLine" mc="Class" uid="3c5b574a-ae6e-41ef-b47c-7aae2852ad7f"/>
+    <COMPID name="ICommand" mc="Interface" uid="eb025963-279c-49c8-b88a-fdb4fc801fbe"/>
+    <COMPID name="InteractiveShell" mc="Class" uid="3a187ae3-1691-4030-9825-abe07dc44a91"/>
+    <COMPID name="Line" mc="Class" uid="be27bdfa-ff9a-442d-a04f-ede486281907"/>
+    <COMPID name="Logger" mc="Class" uid="8d593fd2-da13-4cd7-8c49-9832235ab9c8"/>
+    <COMPID name="MORS" mc="Class" uid="35cacf9f-4ab8-4788-a4cf-9880603b230b"/>
+    <COMPID name="Map" mc="Class" uid="56e514c9-8373-4d1c-88b5-7940adacede5"/>
+    <COMPID name="Model" mc="Interface" uid="1f84070b-339f-495e-aff9-9f48e39ea8ad"/>
+    <COMPID name="Point" mc="Class" uid="4db825fd-c2d0-4210-b9e2-e74252531a31"/>
+    <COMPID name="QueryRange" mc="Interface" uid="c280283a-c064-4fe0-90d0-c9001f046111"/>
+    <COMPID name="QueryRectangle" mc="Class" uid="cd8a34ed-5994-4cc3-b341-b16566674b07"/>
+    <COMPID name="Region" mc="Class" uid="c1b106d2-7d8b-434f-9b21-2b82485f3986"/>
+    <COMPID name="String[]" mc="Class" uid="4c5cb3a6-36cd-44e5-9e18-8cfffad71e79"/>
+    <COMPID name="VerticalLine" mc="Class" uid="63e0bb56-5fc4-4a18-a0d8-2a84c8eba566"/>
+    <COMPID name="java" mc="ClassDiagram" uid="66c866c7-3a8d-4539-a6d6-751882242428"/>
+    <COMPID name="main.be.ac.umons.ors.direction" mc="ClassDiagram" uid="e03be09d-29a2-4a15-b75d-2ec3d36ad3b6"/>
+    <COMPID name="main.be.ac.umons.ors.form" mc="ClassDiagram" uid="f4c37888-7371-4a59-b001-fd7c564d2595"/>
+    <COMPID name="main.be.ac.umons.ors.interactiveshell" mc="ClassDiagram" uid="9387cdd1-f118-463a-91cf-08cbfe3ba8f0"/>
+    <COMPID name="main.be.ac.umons.ors.math" mc="ClassDiagram" uid="499762db-c444-4297-81af-847d952b912b"/>
+    <COMPID name="main.be.ac.umons.ors.model" mc="ClassDiagram" uid="2c85df57-35a3-4302-bf72-91c609d06099"/>
+    <COMPID name="sdd.ii.ors Class diagram" mc="ClassDiagram" uid="d8d2d465-5012-4817-9d8b-2de66e5d234e"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <PID name="SDD.II.ORS" mc="Project" uid="419c78d6-5b7d-446d-8496-fcaf7cee021b"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[sdd.ii.ors]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="QueryRange" mc="Interface" uid="c280283a-c064-4fe0-90d0-c9001f046111"/>
+        <COMPID name="Point" mc="Class" uid="4db825fd-c2d0-4210-b9e2-e74252531a31"/>
+        <COMPID name="Region" mc="Class" uid="c1b106d2-7d8b-434f-9b21-2b82485f3986"/>
+        <COMPID name="QueryRectangle" mc="Class" uid="cd8a34ed-5994-4cc3-b341-b16566674b07"/>
+        <COMPID name="Line" mc="Class" uid="be27bdfa-ff9a-442d-a04f-ede486281907"/>
+        <COMPID name="HorizontalLine" mc="Class" uid="3c5b574a-ae6e-41ef-b47c-7aae2852ad7f"/>
+        <COMPID name="VerticalLine" mc="Class" uid="63e0bb56-5fc4-4a18-a0d8-2a84c8eba566"/>
+        <OBJECT>
+          <ID name="EDirection" mc="Enumeration" uid="f13c75df-4c8a-4fea-991e-67d96bc1716e"/>
+          <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[EDirection]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+        <COMPID name="InteractiveShell" mc="Class" uid="3a187ae3-1691-4030-9825-abe07dc44a91"/>
+        <COMPID name="ICommand" mc="Interface" uid="eb025963-279c-49c8-b88a-fdb4fc801fbe"/>
+        <COMPID name="Map" mc="Class" uid="56e514c9-8373-4d1c-88b5-7940adacede5"/>
+        <COMPID name="Model" mc="Interface" uid="1f84070b-339f-495e-aff9-9f48e39ea8ad"/>
+        <COMPID name="MORS" mc="Class" uid="35cacf9f-4ab8-4788-a4cf-9880603b230b"/>
+        <COMPID name="String[]" mc="Class" uid="4c5cb3a6-36cd-44e5-9e18-8cfffad71e79"/>
+        <COMPID name="Logger" mc="Class" uid="8d593fd2-da13-4cd7-8c49-9832235ab9c8"/>
+        <COMPID name="Controller" mc="Interface" uid="936bf52f-2968-45db-800d-37d12957638a"/>
+        <COMPID name="CPercent" mc="Class" uid="949d6559-852e-4f35-ac45-01c830fdb8cb"/>
+        <COMPID name="CMDAddPoint" mc="Class" uid="ed00715e-029f-4606-8d47-9446b6ac3ad6"/>
+        <COMPID name="CMDCriteria" mc="Class" uid="48a68a1a-71cd-45d3-8f6f-68c7ccf85bc6"/>
+        <COMPID name="CMDLoad" mc="Class" uid="33610a00-bc0e-4f98-8b74-53f8c732d2e4"/>
+        <COMPID name="CMDMax" mc="Class" uid="8463693a-d16e-4587-8b9e-a4db97a2af16"/>
+        <COMPID name="CMDMin" mc="Class" uid="32ae3230-7377-4faa-90a5-40302dde4aa1"/>
+        <COMPID name="CMDPercent" mc="Class" uid="6776c989-1d22-4839-aabe-6236518f8cf1"/>
+        <COMPID name="CMDSave" mc="Class" uid="33555a30-3154-4b97-916a-4e309fa6c598"/>
+        <COMPID name="CMDPoints" mc="Class" uid="f72ff39a-2f0f-4cd6-830c-536c49f33b54"/>
+        <COMPID name="CMDShow" mc="Class" uid="080871a6-a74e-4c42-9d3d-d014aaf6547e"/>
+        <COMPID name="CMDSize" mc="Class" uid="afcbe464-32b2-4dfd-958f-9a50d3602bfc"/>
+        <COMPID name="CMin" mc="Class" uid="b8fbd4a2-495b-4d2b-8085-2992a1c071a9"/>
+        <COMPID name="CCriteria" mc="Class" uid="bd34b67f-bec0-4ba8-a4ca-1d5d5dc8b20a"/>
+        <COMPID name="CLoad" mc="Class" uid="547f5be2-e656-4da5-9d26-f272461b1c76"/>
+        <COMPID name="CAddPoint" mc="Class" uid="9626cf04-1dd8-4159-8571-ca02047c82f8"/>
+        <COMPID name="CMax" mc="Class" uid="4ea1fb74-e756-4453-9d05-399d084e5124"/>
+        <COMPID name="CSave" mc="Class" uid="0a2ad06f-5134-477b-bcbc-b4e1166affd7"/>
+        <COMPID name="CPoints" mc="Class" uid="0ce044b8-3566-451b-b8da-ec3f1f67c243"/>
+        <COMPID name="CSize" mc="Class" uid="60fe6d67-bda5-48d7-9666-28c0233b65f5"/>
+        <COMPID name="CShow" mc="Class" uid="7671a9ca-11f1-4758-8e87-118756f923f7"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="main.be.ac.umons.ors.form" mc="ClassDiagram" uid="f4c37888-7371-4a59-b001-fd7c564d2595"/>
+        <COMPID name="main.be.ac.umons.ors.math" mc="ClassDiagram" uid="499762db-c444-4297-81af-847d952b912b"/>
+        <COMPID name="main.be.ac.umons.ors.direction" mc="ClassDiagram" uid="e03be09d-29a2-4a15-b75d-2ec3d36ad3b6"/>
+        <COMPID name="main.be.ac.umons.ors.interactiveshell" mc="ClassDiagram" uid="9387cdd1-f118-463a-91cf-08cbfe3ba8f0"/>
+        <COMPID name="java" mc="ClassDiagram" uid="66c866c7-3a8d-4539-a6d6-751882242428"/>
+        <COMPID name="main.be.ac.umons.ors.model" mc="ClassDiagram" uid="2c85df57-35a3-4302-bf72-91c609d06099"/>
+        <COMPID name="sdd.ii.ors Class diagram" mc="ClassDiagram" uid="d8d2d465-5012-4817-9d8b-2de66e5d234e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

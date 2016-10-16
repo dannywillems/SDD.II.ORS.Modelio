@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="main.be.ac.umons.ors.model" version="3">
+  <DEPS>
+    <ID name="main.be.ac.umons.ors.model" mc="ClassDiagram" uid="2c85df57-35a3-4302-bf72-91c609d06099"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="main.be.ac.umons.ors.model" mc="ClassDiagram" uid="2c85df57-35a3-4302-bf72-91c609d06099"/>
+    <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">23</ATT>
+      <ATT name="UiData"><![CDATA[eJztnG1Po0oUx78K6XuQMtCW1HWjduM161rT3rvJvW/MAEOdlQczTFfrp98ZWnottpWOMKAhMVqmcOaB35mew//U469PYaD8RiTBcfSl09X0jvL15Hjs/EIuVbDHmjoKXTygL52YzLQw9lCAY83DcEZgqCEP05hoCYUU32soQCGKaLI8drOTLsJpejxaHneUEP6Kye26U71zcnxD4gdE6EKJYMj6CuAintMRpJC99xMGc7QaRDQPgs7RyfFRdsGrS6d0EaDOxhSMfVNI+PmJ5sYEactrC4zvHCYu9JCXdfbtiU6QX7CXa2ZidaWCnujIuWRjTF/yFx7y4TyguUkeLaezb+IEBZAij40jt2Y/eJPym7ewkQcwSVZ3QjHcgeX5Vl8FFgSqCXRDdfy+odpdt6fbns5+2ftXm1mj36P4MbqCDgpyHU8pwdGscxJCHGkO0qCrzcM4SrSYJMsVOj5Kz987rThAl9F5HD7ECabshuzopICp8zsceARxC1c4oRuMAAHMcUQR8eEzYohfLl+7hfDZifeEDQdGM07G6n51TTC07GEPDI3eweCblYPPqV+6WEW8rtdV6foDU+/rjgqA7aumbSEV+r6t2r45QMBGcAC9EmD90SwurbK4vCE4hGRxzUyUjKg+1BmcInz2ivLJTD0t3g2p2UK6yx7boTkZ74S1LwArt5o8sLW7Q+yeEYbsddbyV9oiP14YSNs28y7TEpnZW977AgaTu/jxFruvDJ3FrCcYrVeEkjnaP8/U0j1aPMbEe8OYD4PkLWsUuve3CbsNKC5naMGW5T/cFHQSSqBLDze0hvOFq9gCHu/yEBT7OHX28/XBBCX4GToBuiDx/EG+13d1uZ9Gre9XFDJ1RVJWSFnnzpyiGaePgXmaNdSFY+GstRwcGf4tj9vtbaIgQufR6s/+zbQrkoRyg5APPgN3nDXUBW7hrLMFt+qwHtG72KuaWuEUNWJRFIszXDon61SVtU2zthrYlZyRtuzuZDej4b3BgEhOWojOurbXwtlpSYh+nji1RDqr3lNF8qpC1P4XRzXsq4bk3OoTQVv2vsoBKBncYkwbImkZjiJE0gcGKczsIH1gUAPBbTrWFIJTDN4ZFhhiet9WGGsKBAzJeZbRanw1RQOGWIa1FVaU1BQBSM6sWlobEgG8fivXD05+siPsQgFto3gv25VwbYVWrmd+6owrj6ueQQElxBBKNEM4Q2sFNBV4uLfyVq6CTnnrEo1yJXujN+wNQX/YzUviBRxZnjra6vW7XHjKJhkEmBbx46ICaRFNsy6FtOjYBCXSQzMZQdXz+TkTPEt2554+7Br6UO2yn4MdGhTOzZtbJZYuqgIsF7o+92PoDFSzPxio0HR91R4M9J4OHAPoThnOPJ5Mm6N2ApG0egPGsirDhOJCIDmvBpXl1R+ZwZLqv4BIVt3AAjAgr3AWtHuijOqvJgc3TSz/2jbDbaEQEHk00dACMCD5EUXr+lWEQyJpeOOKv4BkkRdUppd9ZBRl1X0BkXySG2xU3ZcpWeNtma2t5MsUk3IbWfJlyk5AW2yrq/Yyhb/G2dBqL1OyyGt+jpj042i7ZmXVs/XovKbs73R+DmBL3k5rK/Iyxcptyy/yyku4AsKI2SZhDUC5jGovU6yctknVXpbk7IrB38IoOxiwSiyRravQy5KcT7Wg1h8ANKbGK69nl1jfZQmlllLqu/LTObyoy5IoeLYCfFvQ1YSCrje3kysc3Sd7dsbc6WezEYGP7G5ewQVzxk3/2p/lZ9uFtzSQaAE3wXaKDYtyPsoPu6qWfzqH86xmXjS60K5O//02uT07Pf9+MRn/cz0q+0Nwp5WXt+p/al4ysPfJSMtA2Qz8Pb6RFgH9AZJeLd4=]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[main.be.ac.umons.ors.model]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

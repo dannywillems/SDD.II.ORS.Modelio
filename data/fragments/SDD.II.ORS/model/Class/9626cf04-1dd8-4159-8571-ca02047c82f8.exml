@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CAddPoint" version="3">
+  <DEPS>
+    <ID name="CAddPoint" mc="Class" uid="9626cf04-1dd8-4159-8571-ca02047c82f8"/>
+    <EXTID name="Controller" mc="Interface" uid="936bf52f-2968-45db-800d-37d12957638a"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="CAddPoint" mc="Class" uid="9626cf04-1dd8-4159-8571-ca02047c82f8"/>
+    <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CAddPoint]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Realized">
+        <OBJECT>
+          <ID name="InterfaceRealization" mc="InterfaceRealization" uid="4763f030-8e56-4e40-9a29-9c0540186c46"/>
+          <PID name="CAddPoint" mc="Class" uid="9626cf04-1dd8-4159-8571-ca02047c82f8"/>
+          <ATTRIBUTES>
+            <ATT name="Name"><![CDATA[InterfaceRealization]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Implemented">
+              <ID name="Controller" mc="Interface" uid="936bf52f-2968-45db-800d-37d12957638a"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="main.be.ac.umons.ors.direction" version="3">
+  <DEPS>
+    <ID name="main.be.ac.umons.ors.direction" mc="ClassDiagram" uid="e03be09d-29a2-4a15-b75d-2ec3d36ad3b6"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="main.be.ac.umons.ors.direction" mc="ClassDiagram" uid="e03be09d-29a2-4a15-b75d-2ec3d36ad3b6"/>
+    <PID name="sdd.ii.ors" mc="Package" uid="c8ac039e-19b8-4972-adfb-c3b31b9ff8af"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">91</ATT>
+      <ATT name="UiData"><![CDATA[eJztmm9v2jwQwL9KxHsCAUqHxjq1wNOnGmsr+jyTtjfVJTmoV8dGtrM2+/SzE2AlXUMIEPYiUqViE9/5z+8ud2f6H58Dav1AIQlnH2qO3axZH8/6N+539JRFfN1Vs1Q0xw81LmZ2wH2khNs+gZmAwEafKC5sqUCRRxspBsiUTNre8qHL4C5uD5N2zQrgOxf3K6XN2ln/VvA5ChVZDAKti0LEQzUEBfq7L0BDXEyChZTWGmf9xnLAq6F3KqJYW1tCK2sJ0jwvbY8LtJOxOeY3AOmBj/5S2ehZTXCaU8u1FrEYaeGzGrpXeo7xR/PBxymEVKUW2UiWk7VwgRQU+noeqT37bLqsH6ZHz5yClIuTsLDZdrHZ8+utHrTqHXBO6u7piW6i1/bbXfDbbjd7t7U09YnxJzYGF2lK8Z0ShM1qZwEQZrtog2eHAWfS5kLqnRF6QXqD+414TObSOMUrNuDBnEtixryhKIeowQOhvkAjYUykWuOkXQB1ZGGAAsykNOgj3dqJ74meC7CZQWNxYN3m+1bzfd3Rf1uD3zk4+Ib6xMQOxOvo9/5aU6ftaTyn9Y73DuqdKUK913Ow3j31e13Xc06dLu4B19Hw70PzZC9o3goSgIiu9fjyvXA3L4xa1HO0M5GdishsIj9rr2xI2JHM0wJkGqlyDh4+oD46oem8Xvb8G/eUT+e70lxl+o1agZkSmiCQQ6B84E/3xHsl6IJrTcBWG6NEuGGxsaRHjJ648DcImwKVm6Qp8B7vpUKBfD9To384g+1FgSuVAE8VWOEK0hcm0ytg+Z4JP8mUxEY/WDUmKMlPcCleCh7Oy7d+p1nuy6nyAYcNl5wiWauJlyjRVgt0ES+NiYqbu1N5xRTOzHttcU4Fgnkndxq7H0a1TVSQZkK6hkcRYhuLf9l+1imSl4LSk3RDTZ2ZnOb5fNlxLBebOxmt8C0H33UiDshvkeTVCIy3eMnvzbLjWPyWnL9W/G5MYFE9cP/Q8BbJbwljKOJQV4N7ZRpxqHsEaHOntRW05UAb07BrdFsk83qDySN501bJCZc2hArMTDAP7EdbRTKyN5hF+Y2zI1SwW2VnYBW0G6A1HOyZ2a2+Sukh8otuEQ8K1Orya3l1l2Mv4NpQc2jnqOm1snPNVRmPBwFndlyWTJ5afKXtdJhcYP+jOdxDMT+9iPS1Tg6rLe8WtLpz2hT9BDDDWOsey/t5KvLHqu/nnVvBAv+2TiOnp0gXJ/OrGRP2KDPcbOrxi9lQwJNGYwyR1r9ut9llg6Ur8hMBUjujKL5VWJNYToyw3aij/FCHpLlfmuTw0h6ffx1N7i/OB58uJzf/Xw/3/UZ9U8rLo/pNzUsGMosuFQP7ZuC/m9vSwqlf/i84ww==]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[main.be.ac.umons.ors.direction]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
